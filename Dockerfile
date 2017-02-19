@@ -1,6 +1,6 @@
 # FLUSSONIC
 #
-# VERSION               4.5.4
+# VERSION               4.6.10
 
 FROM      debian:wheezy
 MAINTAINER Virginijus Magelinskas <virginijus@ambernet.lt>
