@@ -1,9 +1,9 @@
 # FLUSSONIC
 #
-# VERSION               4.6.10
+# VERSION               4.7.3
 
 FROM      debian:wheezy
-MAINTAINER Virginijus Magelinskas <virginijus@ambernet.lt>
+MAINTAINER Virginijus Magelinskas <virginijus.m@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
